@@ -1,0 +1,15 @@
+﻿main.obj : error LNK2001: unresolved external symbol GdipDrawLineI
+main.obj : error LNK2001: unresolved external symbol GdipCreatePen1
+main.obj : error LNK2001: unresolved external symbol GdipDeletePen
+main.obj : error LNK2001: unresolved external symbol GdipDeleteGraphics
+main.obj : error LNK2001: unresolved external symbol GdipCloneBrush
+main.obj : error LNK2001: unresolved external symbol GdipFillEllipseI
+main.obj : error LNK2001: unresolved external symbol GdipCreateFromHDC
+main.obj : error LNK2001: unresolved external symbol GdipFree
+main.obj : error LNK2001: unresolved external symbol GdipCreateSolidFill
+main.obj : error LNK2001: unresolved external symbol GdipAlloc
+main.obj : error LNK2001: unresolved external symbol GdipDeleteBrush
+main.obj : error LNK2001: unresolved external symbol GdiplusShutdown
+main.obj : error LNK2001: unresolved external symbol GdiplusStartup
+MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol main
+C:\Users\Mariusz\Desktop\grafy-6-2\x64\Release\grafy-6-2.exe : fatal error LNK1120: 14 unresolved externals

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Mariusz\Desktop\grafy-6-2\grafy-6-2\main.cpp(114,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mariusz\Desktop\grafy-6-2\grafy-6-2\main.cpp(115,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mariusz\Desktop\grafy-6-2\grafy-6-2\main.cpp(126,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  grafy-6-2.vcxproj -> C:\Users\Mariusz\Desktop\grafy-6-2\x64\Debug\grafy-6-2.exe
